@@ -71,6 +71,18 @@
                     <label>Email</label>
                     <input type="email" name="email" required />
                 </div>
+                <div class="form-element">
+                    <label>¿Te agrado?</label>
+                    <input type="text" name="username"  required />
+                </div>
+                <div class="form-element">
+                    <label>¿Te fue util?</label>
+                    <input type="text" name="email" required />
+                </div>
+                <div class="form-element">
+                    <label>calificacion</label>
+                    <input type="number" name="email" required />
+                </div>
                 <button type="submit" name="register" value="register">Registrar</button>
             </form>
         </main>
